@@ -3,8 +3,9 @@
 ## Table of Contents
 1. [Questions of Interest](#Questions-of-Interest)
 2. [Link Dump](#Link-Dump)
-3. [Question 1](#third-example)
-4. [Question 2](#fourth-examplehttpwwwfourthexamplecom)
+3. Results
+   1. [Question 1](#third-example)
+   2. [Question 2](#fourth-example)
 
 ## Questions of Interest
 1. Find from the census the total population of Virginia by racial group and see if racial groups in the court data are over/under represented
