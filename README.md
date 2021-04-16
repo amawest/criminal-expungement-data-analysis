@@ -25,7 +25,7 @@
 ## Link Dump
 
 * Criminal Expungement Trello: https://trello.com/c/UXTdBnkY/1-racial-disparity-in-enforcement-and-sentencing
-* Write-up (work in progress): https://docs.google.com/document/d/1QYquBrj9K4stv4KU_xCKx7NdjiMjccemkaXdyqMH3iQ/edit
+* Final Write-up: https://docs.google.com/document/d/1QYquBrj9K4stv4KU_xCKx7NdjiMjccemkaXdyqMH3iQ/edit
 * Description between ChargeType & Chargecode: http://www.vcsc.virginia.gov/VCCs/2018/VCCReseachStatute.pdf
 * Court Data: https://virginiacourtdata.org/
 * Population Data: https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2010-2019/cc-est2019-alldata.pdf
