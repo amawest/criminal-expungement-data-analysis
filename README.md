@@ -1,16 +1,10 @@
 # Criminal Expungement: Racial Disparity
 
-# Table of Contents
+## Table of Contents
 1. [Questions of Interest](#Questions-of-Interest)
 2. [Link Dump](#Link-Dump)
 3. [Question 1](#third-example)
 4. [Question 2](#fourth-examplehttpwwwfourthexamplecom)
-
-
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
 
 ## Questions of Interest
 1. Find from the census the total population of Virginia by racial group and see if racial groups in the court data are over/under represented
@@ -31,3 +25,6 @@
 * Virginia Geospatial Population Data: https://www.census.gov/quickfacts/fact/map/VA/RHI225219
 * Code for Charlottesville Github: https://github.com/code-for-charlottesville/LAJC-expungement/blob/main/README.md
 * Code for Charlottesville Pull Requests: https://github.com/code-for-charlottesville/LAJC-expungement/pull/2
+
+## Third Example
+## [Fourth Example](http://www.fourthexample.com) 
