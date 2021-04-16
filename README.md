@@ -12,7 +12,7 @@
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
 
-## Questions-of-Interest
+## Questions of Interest
 1. Find from the census the total population of Virginia by racial group and see if racial groups in the court data are over/under represented
 2. Create a map of racial disparity by area, and we can show changes in that map over time
 3. What criminal charges produce the worst racial disparities?
@@ -22,7 +22,7 @@
 7. Make a bar plot of the 20 most frequent codes
 
 
-## Link-Dump
+## Link Dump
 
 * Criminal Expungement Trello: https://trello.com/c/UXTdBnkY/1-racial-disparity-in-enforcement-and-sentencing
 * Description between ChargeType & Chargecode: http://www.vcsc.virginia.gov/VCCs/2018/VCCReseachStatute.pdf
