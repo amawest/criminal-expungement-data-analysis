@@ -1,10 +1,10 @@
 # Criminal Expungement: Racial Disparity
 
 # Table of Contents
-1. [Example](#Questions-of-Interest)
-2. [Example2](#Link-Dump)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+1. [Questions of Interest](#Questions-of-Interest)
+2. [Link Dump](#Link-Dump)
+3. [Question 1](#third-example)
+4. [Question 2](#fourth-examplehttpwwwfourthexamplecom)
 
 
 ## Example
