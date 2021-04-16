@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Questions of Interest](#Questions-of-Interest)
 2. [Link Dump](#Link-Dump)
-3. Results(#Results)
+3. [Results](#Results)
    1. [Question 1](#Question-1)
    2. [Question 2](#Question-2)
    3. [Question 3](#Question-3)
