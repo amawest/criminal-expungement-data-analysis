@@ -38,9 +38,9 @@
 ## Question 1
 Find from the census the total population of Virginia by racial group and see if racial groups in the court data are over/under represented
 
-<p align="center">
-   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1.a.png" width="800">
-   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1.b.png" width="800">
+<p align="center" width="800">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1.a.png">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1.b.png">
 </p>
 
 
