@@ -64,6 +64,11 @@ Count the number of black people charged with felonies vs. white people charge w
 ## Question 5
 Count the number of black people convicted of felonies vs. white people convicted of misdemeanors (or not convicted at all) for the same offense by year
 
+<p align="center">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/5.a.png" width="400">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/5.b.png" width="800">
+</p>
+
 ## Question 6
 What are the most common offenses in the VA court system
 
