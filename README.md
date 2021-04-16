@@ -2,12 +2,12 @@
 
 ## Questions of Interest
 1. Find from the census the total population of Virginia by racial group and see if racial groups in the court data are over/under represented
-* Create a map of racial disparity by area, and we can show changes in that map over time
-* What criminal charges produce the worst racial disparities?
-* Count the number of black people charged with felonies vs. white people charge with misdemeanors for the same offense by year
-* Count the number of black people convicted of felonies vs. white people convicted of misdemeanors (or not convicted at all) for the same offense by year
-* What are the most common offenses in the VA court system
-* Make a bar plot of the 20 most frequent codes
+2. Create a map of racial disparity by area, and we can show changes in that map over time
+3. What criminal charges produce the worst racial disparities?
+4. Count the number of black people charged with felonies vs. white people charge with misdemeanors for the same offense by year
+5. Count the number of black people convicted of felonies vs. white people convicted of misdemeanors (or not convicted at all) for the same offense by year
+6. What are the most common offenses in the VA court system
+7. Make a bar plot of the 20 most frequent codes
 
 
 ## Link Dump
