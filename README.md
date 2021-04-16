@@ -81,7 +81,7 @@ Make a bar plot of the 20 most frequent codes
 
 
 <p align="center">
-   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/7.png" width="400">
-   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/7.a.png" width="400">
-   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/7.b.png" width="400">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/7.png"   width="800">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/7.a.png" width="800">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/7.b.png" width="800">
 </p>
