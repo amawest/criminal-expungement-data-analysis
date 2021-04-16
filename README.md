@@ -4,8 +4,8 @@
 1. [Questions of Interest](#Questions-of-Interest)
 2. [Link Dump](#Link-Dump)
 3. Results
-   1. [Question 1](#third-example)
-   2. [Question 2](#fourth-example)
+   1. [Question 1](#Question-1)
+   2. [Question 2](#Question-2)
 
 ## Questions of Interest
 1. Find from the census the total population of Virginia by racial group and see if racial groups in the court data are over/under represented
@@ -27,5 +27,9 @@
 * Code for Charlottesville Github: https://github.com/code-for-charlottesville/LAJC-expungement/blob/main/README.md
 * Code for Charlottesville Pull Requests: https://github.com/code-for-charlottesville/LAJC-expungement/pull/2
 
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
+***
+## Results
+
+## Question 1
+
+## Question 2
