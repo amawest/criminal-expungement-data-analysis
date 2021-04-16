@@ -1,5 +1,17 @@
 # Criminal Expungement: Racial Disparity
 
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+
+## Example
+## Example2
+## Third Example
+## [Fourth Example](http://www.fourthexample.com) 
+
 ## Questions of Interest
 1. Find from the census the total population of Virginia by racial group and see if racial groups in the court data are over/under represented
 2. Create a map of racial disparity by area, and we can show changes in that map over time
