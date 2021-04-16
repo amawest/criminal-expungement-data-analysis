@@ -38,9 +38,9 @@
 ## Question 1
 Find from the census the total population of Virginia by racial group and see if racial groups in the court data are over/under represented
 
-![Test Image 4](https://github.com/amawest/criminal-expungement/blob/main/Images/1.a.png)
+![By Race and Charge](https://github.com/amawest/criminal-expungement/blob/main/Images/1.a.png=250x)
 
-![Test Image 5](https://github.com/amawest/criminal-expungement/blob/main/Images/1.b.png)
+![By Race](https://github.com/amawest/criminal-expungement/blob/main/Images/1.b.png)
 
 ## Question 2
 Create a map of racial disparity by area, and we can show changes in that map over time
