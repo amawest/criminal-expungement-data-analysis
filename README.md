@@ -72,5 +72,9 @@ Count the number of black people convicted of felonies vs. white people convicte
 ## Question 6
 What are the most common offenses in the VA court system
 
+<p align="center">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/6.png" width="600">
+</p>
+
 ## Question 7
 Make a bar plot of the 20 most frequent codes
