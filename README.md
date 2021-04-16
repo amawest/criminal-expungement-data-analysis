@@ -38,12 +38,10 @@
 ## Question 1
 Find from the census the total population of Virginia by racial group and see if racial groups in the court data are over/under represented
 
-<p align="center"; width="800">
-   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1.a.png">
-   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1.b.png">
+<p align="center">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1.a.png" width="800">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1.b.png" width="800">
 </p>
-
-
 
 ## Question 2
 Create a map of racial disparity by area, and we can show changes in that map over time
@@ -51,8 +49,16 @@ Create a map of racial disparity by area, and we can show changes in that map ov
 ## Question 3
 What criminal charges produce the worst racial disparities?
 
+<p align="center">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1.b.png" width="800">
+</p>
+
 ## Question 4
 Count the number of black people charged with felonies vs. white people charge with misdemeanors for the same offense by year
+
+<p align="center">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1.b.png" width="800">
+</p>
 
 ## Question 5
 Count the number of black people convicted of felonies vs. white people convicted of misdemeanors (or not convicted at all) for the same offense by year
