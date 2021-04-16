@@ -1,6 +1,12 @@
 # Criminal Expungement: Racial Disparity
 
 
-## Helpful Links
+## Link Dump
 
 * Description between ChargeType & Chargecode: http://www.vcsc.virginia.gov/VCCs/2018/VCCReseachStatute.pdf
+* Court Data: https://virginiacourtdata.org/
+* Population Data: https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2010-2019/cc-est2019-alldata.pdf
+* Virginia Geospatial Population Data: https://www.census.gov/quickfacts/fact/map/VA/RHI225219
+* https://github.com/code-for-charlottesville/LAJC-expungement/pull/2
+* https://github.com/code-for-charlottesville/LAJC-expungement/blob/main/README.md
+* https://tigerweb.geo.census.gov/tigerwebmain/TIGERweb_nation_based_files.html
