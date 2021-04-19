@@ -46,6 +46,8 @@ Find from the census the total population of Virginia by racial group and see if
 ## Question 2
 Create a map of racial disparity by area, and we can show changes in that map over time
 
+* [James Bennett's Work](https://share.streamlit.io/jamesb380/code_ville_court/hap.py)
+
 ## Question 3
 What criminal charges produce the worst racial disparities?
 
