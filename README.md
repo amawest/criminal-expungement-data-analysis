@@ -68,7 +68,7 @@ Count the number of black people convicted of felonies vs. white people convicte
 
 <p align="center">
    <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/5.a.png"   width="1200">
-   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/5.b.png" width="1200">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/5.b.png" width="1400">
       <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/5.d.png"   width="1200">
    <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/5.e.png" width="1200">
 </p>
