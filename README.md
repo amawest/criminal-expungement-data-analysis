@@ -67,7 +67,7 @@ Count the number of black people charged with felonies vs. white people charge w
 Count the number of black people convicted of felonies vs. white people convicted of misdemeanors (or not convicted at all) for the same offense by year
 
 <p align="center">
-   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/5.a.png" width="600">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/5.a.png" width="800">
    <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/5.b.png" width="800">
 </p>
 
