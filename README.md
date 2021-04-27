@@ -3,7 +3,15 @@
 ## Table of Contents
 1. [Questions of Interest](#Questions-of-Interest)
 2. [Link Dump](#Link-Dump)
-3. [Results](#Results)
+3. [Circuit 2019 Results](#Circuit-2019-Data)
+   1. [Question 1](#Question-1)
+   2. [Question 2](#Question-2)
+   3. [Question 3](#Question-3)
+   4. [Question 4](#Question-4)
+   5. [Question 5](#Question-5)
+   6. [Question 6](#Question-6)
+   7. [Question 7](#Question-7)
+4. [District 2019 Results](#District-2019-Data)
    1. [Question 1](#Question-1)
    2. [Question 2](#Question-2)
    3. [Question 3](#Question-3)
@@ -33,7 +41,8 @@
 * Code for Charlottesville Github: https://github.com/code-for-charlottesville/LAJC-expungement/blob/main/README.md
 * Code for Charlottesville Pull Requests: https://github.com/code-for-charlottesville/LAJC-expungement/pull/2
 
-## Results
+***
+## Circuit 2019 Data
 
 ## Question 1
 Find from the census the total population of Virginia by racial group and see if racial groups in the court data are over/under represented
@@ -89,3 +98,8 @@ Make a bar plot of the 20 most frequent codes
    <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/7.png"         width="1000">
    <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/7.words.png"   width="500">
 </p>
+
+
+
+***
+## District 2019 Data
