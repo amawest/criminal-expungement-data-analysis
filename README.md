@@ -61,7 +61,7 @@ Create a map of racial disparity by area, and we can show changes in that map ov
 What criminal charges produce the worst racial disparities?
 
 <p align="center">
-   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/3.png" width="800">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/3_updated.png" width="800">
 </p>
 
 ## Question 4a
