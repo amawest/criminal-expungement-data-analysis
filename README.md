@@ -71,7 +71,7 @@ What criminal charges produce the worst racial disparities?
 Count the number of black people charged with felonies vs. white people charge with misdemeanors for the same offense by year
 
 <p align="center">
-   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/4_updated.png" width="400">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/4_updated.png" width="800">
    <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/4_graph.png" width="800">
 </p>
 
