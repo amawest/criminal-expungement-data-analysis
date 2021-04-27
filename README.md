@@ -112,8 +112,8 @@ Find from the census the total population of Virginia by racial group and see if
 
 <p align="center">
    <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1_d_a.png" width="800">
-   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1_d_b.png" width="800">
    <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1_d_c.png" width="800">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1_d_b.png" width="800">
 </p>
 
 ## Question 2b
