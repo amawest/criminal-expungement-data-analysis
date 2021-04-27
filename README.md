@@ -128,3 +128,8 @@ What are the most common offenses in the VA court system
 ## Question 7b
 Make a bar plot of the 20 most frequent codes
 
+<p align="center">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/7_d.png"         width="1000">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/7_words_d.png"   width="500">
+</p>
+
