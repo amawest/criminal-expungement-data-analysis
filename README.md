@@ -110,6 +110,11 @@ Make a bar plot of the 20 most frequent codes
 ## Question 1b
 Find from the census the total population of Virginia by racial group and see if racial groups in the court data are over/under represented
 
+<p align="center">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1_d_a.png" width="800">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1_d_b.png" width="800">
+   <img src="https://github.com/amawest/criminal-expungement/blob/main/Images/1_d_c.png" width="800">
+</p>
 
 ## Question 2b
 Create a map of racial disparity by area, and we can show changes in that map over time
