@@ -1,4 +1,5 @@
 # Criminal Expungement: Racial Disparity
+By Amanda West, Benjamin Cosgro, and Sean Grace @University of Virginia 2020
 
 ## Table of Contents
 1. [Questions of Interest](#Questions-of-Interest)
